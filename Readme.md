@@ -97,8 +97,8 @@ const CHAIN_CONFIG = {
 ```
 
 License
-MIT
 
 ```
+MIT
 
 ```
